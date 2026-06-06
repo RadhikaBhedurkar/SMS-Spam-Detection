@@ -1,8 +1,8 @@
 
 
-# Spam Detection System 
+# SMS Spam Detection System 
 
-This project focuses on building an intelligent Spam Detection System that classifies messages (SMS/Email) as Spam or Ham (Not Spam) using Machine Learning techniques.
+This project focuses on building an intelligent Spam Detection System that classifies messages (SMS) as Spam or Ham (Not Spam) using Machine Learning techniques.
 
 🚀 Features
 
